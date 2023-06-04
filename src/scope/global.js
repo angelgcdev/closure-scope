@@ -20,6 +20,7 @@ function bestFruit() {
 bestFruit();
 
 function countries() {
+  
   country = "Colombia"; //variable Global implicitamente(si no se declara).
   console.log(country);
 }
