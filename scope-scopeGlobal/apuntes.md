@@ -12,3 +12,5 @@ Es el alcance que tienen las variables en el código, dependiendo en donde fuero
 
 ## Variables en Javascript
 En JavaScript los *objetos* y la *funciones* tambien en variables, y les afecta el scope.
+
+##
